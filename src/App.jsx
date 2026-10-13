@@ -6,6 +6,7 @@ import harrypotter from "./assets/harrypotter.png";
 
 function App(){
   return (
+<section> 
     <div className="container">
       <h1>🎬 My Movie Playlist</h1>
 
@@ -24,6 +25,7 @@ function App(){
         <h2>Harry Potter</h2>
       </div>
     </div>
+</section>
   );
 }
 
